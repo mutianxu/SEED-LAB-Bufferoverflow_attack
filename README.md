@@ -12,9 +12,9 @@ and unzip it;(Do not use other Ubuntu not from this link, or the project may fai
 3. Select Linux-Ubuntu-Use an existing virtual disk and choose the SEEDUbuntu-16.04-32bit.vmdk from the file unzipped in step 1;
 4. Waiting for installation succeesfullt and then you can start your project!
 
-The tasks of this project can found in Homework 2.doc
+The tasks of this project can be found in Homework 2.doc
 
-The report of this project can found in HW2-Report, which shows all the steps,commands,results and explanations you will use or meet in this project.
+The report of this project can be found in HW2-Report, which shows all the steps,commands,results and explanations you will use or meet in this project.
 
 Through this project you will learn some basic operations and commands of Linux.
 You will know how buffer overflow attack works and realize this attack.
