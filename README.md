@@ -1,4 +1,4 @@
-# Bufferoverflow-attack
+# SEED LAB Bufferoverflow-attack
 
 This is an assignment of the course Advanced System Security .
 Originally from http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Software/Buffer_Overflow/.
@@ -7,7 +7,7 @@ Note that there is a litte mistake of the call_shellcode.c, and I have revised a
 
 To setup the working environment:
 1. Download the VMware Fusiont,download the SEEDUbuntu16.04.zip from this link: http://www.cis.syr.edu/~wedu/seed/lab_env.html
-and unzip it;
+and unzip it;(Do not use other Ubuntu not from this link, or the project may fail)
 2. Open the VMware Fusion and then 'create a custom virtual machine';
 3. Select Linux-Ubuntu-Use an existing virtual disk and choose the SEEDUbuntu-16.04-32bit.vmdk from the file unzipped in step 1;
 4. Waiting for installation succeesfullt and then you can start your project!
